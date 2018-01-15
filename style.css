@@ -1,0 +1,33 @@
+header{
+    position:absolute;
+    top:0px;
+    width:95%;
+    height:50px;
+    background-color:black;
+}
+
+header ul li{
+    float:left;
+    list-style:none;
+    color:white;
+    padding-left:50px;
+}
+
+h1{
+    clear:left;
+    margin-top:60px;
+    padding-left:10px;
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+    width:50%;
+}
+
+img{
+    float:left;
+    width:60%;
+    height:40%;
+}
+
+.ninki{
+    
+}
