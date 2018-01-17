@@ -1,33 +1,102 @@
-header{
-    position:absolute;
-    top:0px;
-    width:95%;
+.logo{
+    height:40px
+}
+
+.top_bar{width:95%;
     height:50px;
     background-color:black;
 }
 
-header ul li{
+
+
+.top_bar ul li{
     float:left;
     list-style:none;
     color:white;
     padding-left:50px;
+    position:relative;
+    top:15px;
 }
 
+main{
+    width:100%;
+    height:800px;
+    border:3px solid red;
+}
+  
 h1{
     clear:left;
-    margin-top:60px;
+    margin-top:10px;
     padding-left:10px;
     border-left:5px solid black;
     border-bottom:2px solid black;
-    width:50%;
+    width:95%;
+    float:left;
 }
 
-img{
+.left{
     float:left;
-    width:60%;
-    height:40%;
+    width:69%;
+    height:60%;
+    border:3px solid blue;
 }
+
+.book{
+    float:left;
+    height:80%
+
+}
+
+
+.right{
+    float:left;
+    width:30%;
+    height:60%;
+    border:3px solid green;
+}
+
+
+
 
 .ninki{
-    
+    float:left;
+    margin-top:10px;
+    margin-left:20px;
+    border-bottom:3px dashed gray;
+    width:40%;
+    font-size:20px;
 }
+
+.right .list1{
+    clear:left;
+    list-style:none;
+}
+
+.link{
+    clear:left;
+    margin-top:10px;
+    margin-left:20px;
+    border-bottom:3px dashed gray;
+    width:40%;
+    font-size:20px;
+}
+
+.right .list2{
+    clear:left;
+    list-style:none;
+}
+
+.cate{
+    
+    margin-top:10px;
+    margin-left:20px;
+    border-bottom:3px dashed gray;
+    width:40%;
+    font-size:20px;
+}
+
+.right .list3{
+    clear:left;
+    list-style:none;
+}
+
