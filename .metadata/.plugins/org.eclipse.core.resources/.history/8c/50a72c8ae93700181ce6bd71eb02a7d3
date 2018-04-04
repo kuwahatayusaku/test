@@ -1,0 +1,13 @@
+/**
+ *
+ */
+
+/**
+ * @author testuser
+ *
+ */
+public class DBConnector {
+	import java.sql.DriverManager;
+
+
+}

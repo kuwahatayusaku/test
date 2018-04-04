@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+C:\Users\testuser\Desktop\workspace\workspace-kuwahatai\.metadata\.plugins\org.eclipse.jdt.core
+3542312921.index
+4145184385.index
+4222298462.index
+2718936042.index
+3984562850.index
